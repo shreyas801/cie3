@@ -20,6 +20,7 @@ public class Method {
         m.display();
         m.display(5);
         m.display(5, 10);
+        System.out.println("This is master branch");
     }
 
     
